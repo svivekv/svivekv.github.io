@@ -51,6 +51,28 @@
 .custom_pub td > p:nth-child(2){
     font-size: 15px;
 }
+
+
+.custom_talk td > p{
+    padding:0px;
+    margin: 0px;
+}
+
+.custom_talk td > p:nth-child(1){
+    font-size: 15px;
+}
+.custom_talk td > p:nth-child(2){
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.custom_talk td > p:nth-child(3){
+    font-size: 16px;
+}
+
+.custom_talk td > p:nth-child(4){
+    font-size: 13px;
+}
 /* width */
 ::-webkit-scrollbar {
     width: 10px;
